@@ -1,0 +1,18 @@
+/*====================IMPORT=======================*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&family=Roboto:wght@300&display=swap');
+/*====================COLORs=======================*/
+.txt-green{    color: var(--green);}
+
+.txt-brown{     color: var(--brown);}
+
+.txt-black{     color: var(--black);}
+
+.txt-white{     color: var(--white);}
+
+.bg-green{      background-color: var(--green);}
+
+.bg-brown{     background-color: var(--brown);}
+
+.bg-black{     background-color: var(--black);}
+
+.bg-white{     background-color: var(--white);}
